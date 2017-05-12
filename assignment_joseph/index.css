@@ -1,0 +1,10 @@
+body{
+	background-image: url('images/splatoon_2.png');
+}
+.Describe{
+	color:red;
+	background: black;
+	border: 50px solid red;
+	padding: 40px;
+	font: italic;}
+}
